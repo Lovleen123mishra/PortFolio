@@ -1,0 +1,52 @@
+*{
+    color: white;
+}
+.container{
+    display: flex;
+    height: 900px;
+    width: 800px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.info h3{
+    margin-left: 80px;
+}
+.image img{
+    width: 200px;
+    height: 200px;
+    box-shadow: white;
+}
+h1{
+    margin-left: 45%;
+    color: white;
+}
+.head{
+    border: 2px solid black;
+    background-color: rgb(40, 37, 94);
+    height: 1000px;
+    width: 900px;
+    margin-left: 20%;
+}
+.image br{
+    margin-top: 5px;
+    color: white;
+}
+li{
+    margin-left: 70px;
+    margin-top: 10px;
+    list-style: none;
+}
+.skill{
+        margin-left: 0px;
+        margin-top: 43px;
+        display: flex;
+} 
+.project{
+    display: flex;
+}
+.summary{
+    margin-top: 50px;
+}
+.quali{
+    display: flex;
+}
